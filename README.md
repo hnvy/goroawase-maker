@@ -2,7 +2,7 @@
 A Python program that helps you create Goroawase.
 
 # What is Goroawase?
-In simple terms, it is a Japanese mnemonic system to memorise numbers. You probably need to speak some Japanese in order to find this helpful. But, for my Japanese friends out there, here you go.
+In simple terms, it is a Japanese mnemonic system used to memorise numbers. You probably need to speak some Japanese in order to find this helpful. But, for my Japanese friends out there, here you go.
 
 You can read more at: https://artofmemory.com/wiki/Goroawase/
 
@@ -27,3 +27,5 @@ Alternatively, you can run the program and then follow the prompt:
 ```
 python goroawase_maker.py
 ```
+
+Please make sure that you have a file called `CombinedData.txt` in the same directory as the Python program.
