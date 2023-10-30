@@ -15,4 +15,15 @@ The idea stemmed from this website: http://www2u.biglobe.ne.jp/~b-jack/bn/pken.h
 
 Thankfully, the owner has made the data publicly available. I am truly grateful for that: http://www2u.biglobe.ne.jp/~b-jack/d-m.html. I wanted to donate, but I couldn't find my way around the website (if you figure it out, please let me know).
 
-Last but not least, there is another nice Goroawase website: https://seoi.net/goro/
+Last but not least, there is another nice Goroawase website: https://seoi.net/goro/.
+
+# How to use
+You can use the command line to enter a number for creating Goroawase:
+```
+python goroawase_maker.py [number]
+```
+
+Alternatively, you can run the program and then follow the prompt:
+```
+python goroawase_maker.py
+```
